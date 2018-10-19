@@ -1,5 +1,5 @@
 # Aritcal
-This is a knowledgebase app used in the "Node.js & Express From Scratch" Youtube series.
+This is a knowledgebase app used in the "Node.js & Express 
 
 Technologies
 Node.js
